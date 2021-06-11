@@ -1,1 +1,6 @@
-Depends on glad and DearImGui.
+# gl-windows
+
+## Dependencies 
+
+ - glad
+ - DearImGui.
