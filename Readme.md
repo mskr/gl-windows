@@ -4,4 +4,4 @@
 
  - Visual C++
  - glad
- - DearImGui.
+ - DearImGui
