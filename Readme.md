@@ -2,5 +2,6 @@
 
 ## Dependencies 
 
+ - Visual C++
  - glad
  - DearImGui.
